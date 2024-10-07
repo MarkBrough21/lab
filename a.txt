@@ -1,2 +1,1 @@
-This is a new text file.
-And this is the first edit.
+This is a new text file
